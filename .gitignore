@@ -4,3 +4,4 @@ LibriSpeech/
 pretrained/
 model_checkpoints/
 *.tar.gz
+results/
