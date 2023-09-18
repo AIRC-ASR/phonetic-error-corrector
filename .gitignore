@@ -2,3 +2,5 @@ venv/
 __pycache__
 LibriSpeech/
 pretrained/
+model_checkpoints/
+*.tar.gz
